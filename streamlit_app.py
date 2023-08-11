@@ -1,3 +1,4 @@
 #My First Streamlit App for Snowflake
-Import streamlit
+import streamlit
+
 Streamlit.title('MyParents New Healthy Diner')
